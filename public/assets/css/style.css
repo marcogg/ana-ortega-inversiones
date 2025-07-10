@@ -1,0 +1,18 @@
+.btn-primary {
+    background-color: #eab308 !important;
+    /* Replace with your desired yellow */
+}
+
+.btn-primary:hover {
+    background-color: #c19204 !important;
+    /* Lighter yellow on hover */
+}
+
+#scrollUp {
+    background-color: #eab308 !important;
+    /* Replace with your desired yellow */
+}
+
+.slick-arrows {
+    border-color: #eab308 !important;
+}

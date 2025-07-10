@@ -23,7 +23,19 @@ module.exports = {
             "blue-600": "#2563eb",
             "blue-700": "#1d4ed8",
             "blue-800": "#1e40af",
-            "blue-900": "#1e3a8a"
+            "blue-900": "#1e3a8a",
+
+            "yellow-50": "#fefce8",
+            "yellow-100": "#fef9c3",
+            "yellow-200": "#fef08a",
+            "yellow-300": "#fde047",
+            "yellow-400": "#facc15",
+            "yellow-500": "#eab308",
+            "yellow-600": "#ca8a04",
+            "yellow-700": "#a16207",
+            "yellow-800": "#854d0e",
+            "yellow-900": "#713f12"
+
         },
         screens: {
             sm: "640px",
@@ -37,7 +49,7 @@ module.exports = {
             padding: "1rem"
         },
         fontFamily: {
-            heading: ["Poppins, sans-serif"],
+            heading: ["Georgia, serif"],
             body: ["Montserrat, sans-serif"]
         },
         boxShadow: {
@@ -79,7 +91,18 @@ module.exports = {
                 "blueGray-600": "#475569",
                 "blueGray-700": "#334155",
                 "blueGray-800": "#1e293b",
-                "blueGray-900": "#0f172a"
+                "blueGray-900": "#0f172a",
+
+                "yellowGray-50": "#fdfcf6",
+                "yellowGray-100": "#f9f5e3",
+                "yellowGray-200": "#f3eac7",
+                "yellowGray-300": "#e6dba3",
+                "yellowGray-400": "#d6c47a",
+                "yellowGray-500": "#bfa14d",
+                "yellowGray-600": "#9d7d2e",
+                "yellowGray-700": "#7a5e22",
+                "yellowGray-800": "#554217",
+                "yellowGray-900": "#33270d",
             },
             height: {
                 "128": "32rem"
